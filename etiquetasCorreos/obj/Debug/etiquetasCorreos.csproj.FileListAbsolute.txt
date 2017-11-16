@@ -17,3 +17,22 @@ C:\Users\Roberto Vega\Source\repos\etiquetasCorreos\etiquetasCorreos\bin\Debug\M
 C:\Users\Roberto Vega\Source\repos\etiquetasCorreos\etiquetasCorreos\bin\Debug\MsgKit.xml
 C:\Users\Roberto Vega\Source\repos\etiquetasCorreos\etiquetasCorreos\bin\Debug\OpenMcdf.pdb
 C:\Users\Roberto Vega\Source\repos\etiquetasCorreos\etiquetasCorreos\bin\Debug\OpenMcdf.xml
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\bin\Debug\etiquetasCorreos.exe.config
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\bin\Debug\etiquetasCorreos.exe
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\bin\Debug\etiquetasCorreos.pdb
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\bin\Debug\MimeKit.dll
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\bin\Debug\MsgKit.dll
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\bin\Debug\OpenMcdf.dll
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\bin\Debug\MimeKit.xml
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\bin\Debug\MsgKit.pdb
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\bin\Debug\MsgKit.xml
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\bin\Debug\OpenMcdf.pdb
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\bin\Debug\OpenMcdf.xml
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\obj\Debug\etiquetasCorreos.Form1.resources
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\obj\Debug\etiquetasCorreos.Properties.Resources.resources
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\obj\Debug\etiquetasCorreos.csproj.GenerateResource.Cache
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\obj\Debug\etiquetasCorreos.csproj.CoreCompileInputs.cache
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\obj\Debug\etiquetasCorreos.exe
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\obj\Debug\etiquetasCorreos.pdb
+C:\Users\E-FRVEGA\Source\Repos\Etiquetas\etiquetasCorreos\obj\Debug\etiquetasCorreos.csprojResolveAssemblyReference.cache
